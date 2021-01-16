@@ -7,4 +7,11 @@
 	<version>1.0.0</version>
 	<name>Java MySQL Utility</name>
 	<description>A simple and easy to use MySQL utility for java!</description>
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>GitHub mdeslippe Apache Maven Packages</name>
+			<url>https://maven.pkg.github.com/mdeslippe/Java-MySQL-Utility</url>
+		</repository>
+	</distributionManagement>
 </project>
