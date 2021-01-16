@@ -12,9 +12,9 @@ This is a simple utility that allows you to easily connect to and manage any MyS
 2) Add the following dependency to your pom.xml file
 ```xml
 <dependency>
-	<groupId>com.github.mdeslippe</groupId>
-	<artifactId>Java-MySQL-Utility</artifactId>
-	<version>${VERSION}</version>
+ 	<groupId>me.myles</groupId>
+ 	<artifactId>java-mysql-utility</artifactId>
+ 	<version>{VERSION}</version>
 	<scope>provided</scope>
 </dependency>
 ```
